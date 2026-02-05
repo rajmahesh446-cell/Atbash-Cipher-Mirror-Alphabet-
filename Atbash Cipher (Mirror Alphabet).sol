@@ -18,3 +18,4 @@ public class Atbash {
 }
         System.out.println("Mirrored: " + result);        System.out.println("Mirrored: " + result); 
 
+        System.out.println("Mirrored: " + result); 
