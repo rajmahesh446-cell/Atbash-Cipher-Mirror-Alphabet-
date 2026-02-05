@@ -16,7 +16,7 @@ public class Atbash {
         // Output: ZYX
     }
 }
-        System.out.println("Mirrored: " + result);        System.out.println("Mirrored: " + result); 
+        System.out.println("Mirrored: " + result);       
 
             
 
